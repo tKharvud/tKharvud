@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Linear Algebra, Operating Systems, and working on my software development skills. 
 - 💞️ I’m looking to collaborate on weird, bizarre, or mundane projects, I'm competant enough a programmer to follow along and learn. 
 - 📫 How to reach me:   
--                        Email:   tyler.harwood@maine.edu
+-                        tyler.harwood@maine.edu
 
 <!---
 tKharvud/tKharvud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
